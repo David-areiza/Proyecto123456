@@ -1,0 +1,63 @@
+
+
+
+
+
+
+/* styles.css */
+
+body {
+  background-color: #000; /* Fondo negro */
+  color: #fff; /* Texto blanco */
+  font-family: 'Arial', sans-serif; /* Fuente del texto */
+  margin: 0; /* Eliminar márgenes por defecto */
+  padding: 0; /* Eliminar padding por defecto */
+}
+
+/* Estilos para el componente About */
+div {
+  padding: 20px; /* Añadir padding alrededor del contenido */
+}
+
+p {
+  font-size: 18px; /* Tamaño de fuente */
+}
+
+/* Estilos para el componente Footer */
+img {
+  width: 50px; /* Ancho de la imagen */
+}
+
+/* Estilos para el componente Info */
+div {
+  text-align: center; /* Centrar el contenido */
+  padding: 20px; /* Añadir padding alrededor del contenido */
+}
+
+img {
+  border-radius: 50%; /* Hacer la imagen circular */
+  width: 150px; /* Ancho de la imagen */
+}
+
+h1 {
+  margin-top: 10px; /* Margen superior para el título */
+}
+
+button {
+  background-color: #fff; /* Color de fondo del botón */
+  color: #000; /* Color del texto del botón */
+  padding: 10px 20px; /* Padding del botón */
+  margin: 10px; /* Margen alrededor del botón */
+  border: none; /* Eliminar borde del botón */
+  cursor: pointer; /* Cambiar cursor al pasar sobre el botón */
+  font-size: 16px; /* Tamaño de fuente del botón */
+}
+
+/* Estilos para el componente Interest */
+div {
+  padding: 20px; /* Añadir padding alrededor del contenido */
+}
+
+p {
+  font-size: 18px; /* Tamaño de fuente */
+}
